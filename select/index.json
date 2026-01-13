@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "LILAC",
+  "base_artist": "DUSTCELL",
+  "createdAt": "2026-01-13T19:41:51.142510Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Lilac Wine",
+      "artist": "Nina Simone",
+      "has_synced": false,
+      "path": "select/01_Lilac_Wine_Nina_Simone.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Lilac",
+      "artist": "Blue Hawaii",
+      "has_synced": false,
+      "path": "select/02_Lilac_Blue_Hawaii.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Lilac Wine",
+      "artist": "Katie Melua",
+      "has_synced": true,
+      "path": "select/03_Lilac_Wine_Katie_Melua.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Lilac Wine",
+      "artist": "Katie Melua",
+      "has_synced": true,
+      "path": "select/04_Lilac_Wine_Katie_Melua.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Lilac Wine",
+      "artist": "Jeff Buckley",
+      "has_synced": true,
+      "path": "select/05_Lilac_Wine_Jeff_Buckley.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Lilac",
+      "artist": "Porridge Radio",
+      "has_synced": true,
+      "path": "select/06_Lilac_Porridge_Radio.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "O, Lilac",
+      "artist": "Wild Nothing",
+      "has_synced": true,
+      "path": "select/07_O,_Lilac_Wild_Nothing.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Lilac Hand of Menthol Dan",
+      "artist": "T. Rex",
+      "has_synced": false,
+      "path": "select/08_The_Lilac_Hand_of_Menthol_Dan_T._Rex.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Lilac In Hand",
+      "artist": "Amen Dunes",
+      "has_synced": false,
+      "path": "select/09_Lilac_In_Hand_Amen_Dunes.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Lilac Wine [feat. Imelda May]",
+      "artist": "Jeff Beck",
+      "has_synced": false,
+      "path": "select/10_Lilac_Wine_[feat._Imelda_May]_Jeff_Beck.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Lilac Hand of Menthol Dan",
+      "artist": "Marc Bolan & T. Rex",
+      "has_synced": false,
+      "path": "select/11_The_Lilac_Hand_of_Menthol_Dan_Marc_Bolan_&_T._Rex.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Lilac & Violet (feat. Karliene)",
+      "artist": "Miracle Of Sound feat. Karliene",
+      "has_synced": true,
+      "path": "select/12_Lilac_&_Violet_(feat._Karliene)_Miracle_Of_Sound_feat._Karliene.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Lilac & Violet",
+      "artist": "Miracle Of Sound/Karliene",
+      "has_synced": true,
+      "path": "select/13_Lilac_&_Violet_Miracle_Of_Sound_Karliene.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "LILAC",
+      "artist": "DUSTCELL",
+      "has_synced": false,
+      "path": "select/pl_01_LILAC_DUSTCELL.txt"
+    }
+  ]
+}
